@@ -1,0 +1,10 @@
+{
+  "verbose": false,
+  "persistent": false,
+  "expanded": false,
+  "plugins": {
+    "local": {
+      "browsers": ["chrome"]
+    }
+  }
+}
